@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:latest
 #
 # Install packages
 RUN apk -U add \
