@@ -12,7 +12,7 @@ RUN npm install
 RUN grunt prod
 #
 # Move from builder
-FROM alpine:3.14
+FROM alpine:latest
 #
 RUN apk -U --no-cache add \
       curl \
