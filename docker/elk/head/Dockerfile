@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:latest
 #
 # Setup env and apt
 RUN apk -U add \
