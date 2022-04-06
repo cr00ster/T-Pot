@@ -1,5 +1,5 @@
 ### This is only for testing purposes, do NOT use for production
-FROM alpine:latest
+FROM alpine:3.15.4
 #
 ADD dist/ /root/dist/
 #
