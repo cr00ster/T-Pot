@@ -18,7 +18,7 @@ ipaddress==1.0.22
 Jinja2==2.9.6
 jmespath==0.9.3
 libtaxii==1.1.111
-lxml==4.2.4
+lxml==4.9.1
 MarkupSafe==1.0
 MySQL-python==1.2.5
 pyasn1==0.4.2
